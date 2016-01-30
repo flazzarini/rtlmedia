@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 from os.path import join
 
-NAME = "rtljournalrss"
+NAME = "rtlmedia"
 DESCRIPTION = "API which creates structure around RTL.lu Media Gallery"
 AUTHOR = "Frank Lazzarini"
 AUTHOR_EMAIL = "flazzarini@gmail.com"
